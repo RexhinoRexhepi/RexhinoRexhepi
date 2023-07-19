@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile!
-
 ### Hello there! 👋 
 I'm Rexhino Rexhepi, a passionate data engineer with expertise in Python, SQL, AWS, Spark, Kafka, Airflow, and Docker. I'm thrilled to have you visit my GitHub profile.
 
